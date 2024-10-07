@@ -1,0 +1,36 @@
+
+.content{
+    height: 100%;
+}
+
+.bg-light-grey{
+    background-color: #F8F9FA;
+}
+
+.bg-grey{
+    background-color: #6C757D;
+}
+
+.bg-blue{
+    background-color: #0D6EFD;
+}
+
+.bg-green{
+    background-color: #198754;
+}
+
+.bg-red{
+    background-color: #DC3545;
+}
+
+.bg-cyan{
+    background-color: #0DCAF0;
+}
+
+.bg-yellow{
+    background-color: #FFC107;
+}
+
+.bg-black{
+    background-color: #212529;
+}
